@@ -47,9 +47,9 @@ tensorflow-datasets 4.9.2<br>
 ![image](https://user-images.githubusercontent.com/82139597/233821964-51eb663a-3f98-4ef5-8982-d855834e3a9f.png)
 
 ## Commands to run code:
-Use the following commands to run code from the Code Ocean:
-python3 -u 'Code/VC_Xception Model.py' "$@"
-python3 -u 'Code/VQC_Xception Model.py' "$@"
+Use the following commands to run code from the Code Ocean:<br>
+python3 -u 'Code/VC_Xception Model.py' "$@"<br>
+python3 -u 'Code/VQC_Xception Model.py' "$@"<br>
 
 
 
